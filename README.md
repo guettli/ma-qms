@@ -14,5 +14,5 @@ List of specifications:
 
 * [iso9001](https://en.wikipedia.org/wiki/ISO_9000#Contents_of_ISO_9001:2015)
 * [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-* ...
+* [ISO/TS (IATF) 16949](https://en.wikipedia.org/wiki/ISO/TS_16949)
 
